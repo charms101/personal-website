@@ -56,7 +56,7 @@ export default class Renderer {
 
         // Style
         this.instance.domElement.style.position = 'absolute';
-        this.instance.domElement.style.zIndex = '1px';
+        this.instance.domElement.style.zIndex = '1';
         this.instance.domElement.style.top = '0px';
 
         document.querySelector('#webgl')?.appendChild(this.instance.domElement);
@@ -65,6 +65,7 @@ export default class Renderer {
         this.overlayInstance.setSize(this.sizes.width, this.sizes.height);
         this.overlayInstance.domElement.style.position = 'absolute';
         this.overlayInstance.domElement.style.top = '0px';
+        this.overlayInstance.domElement.style.zIndex = '3';
         this.overlayInstance.domElement.style.mixBlendMode = 'soft-light';
         this.overlayInstance.domElement.style.opacity = '0.12';
         // this.overlayInstance.domElement.style.mixBlendMode = 'luminosity';
@@ -79,6 +80,7 @@ export default class Renderer {
         this.cssInstance.setSize(this.sizes.width, this.sizes.height);
         this.cssInstance.domElement.style.position = 'absolute';
         this.cssInstance.domElement.style.top = '0px';
+        this.cssInstance.domElement.style.zIndex = '2';
 
         document
             .querySelector('#css')
