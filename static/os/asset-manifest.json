@@ -1,11 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.22d0a6ca.css",
-    "main.js": "./static/js/main.958c8bba.js",
+    "main.js": "./static/js/main.e252ab76.js",
     "static/js/787.749b4a44.chunk.js": "./static/js/787.749b4a44.chunk.js",
     "static/media/currentme.jpg": "./static/media/currentme.26ab6bd6d3323dc79932.jpg",
+    "static/media/pipeCleanerFlowersTable.jpeg": "./static/media/pipeCleanerFlowersTable.6cd1a431399d76ab23d0.jpeg",
     "static/media/workingAtComputer.jpg": "./static/media/workingAtComputer.c10f95669126f082b8d5.jpg",
+    "static/media/pinkPipeCleanerFlower.jpeg": "./static/media/pinkPipeCleanerFlower.f3b732b732fe4fc3efeb.jpeg",
+    "static/media/pipeCleanerBouquet.jpeg": "./static/media/pipeCleanerBouquet.e6142ac9a3b19e39f835.jpeg",
+    "static/media/starryInspiredPainting.jpeg": "./static/media/starryInspiredPainting.9f128e8389a22f54ecd4.jpeg",
     "static/media/computer.mp4": "./static/media/computer.f6d03fdb3cc6238c1dd0.mp4",
+    "static/media/windowSunsetPainting.jpg": "./static/media/windowSunsetPainting.b51d730ba496053ca8a4.jpg",
+    "static/media/socialMediaJourney.png": "./static/media/socialMediaJourney.a7546e2e2c103cf2b34c.png",
     "static/media/academicSchedulerImport.png": "./static/media/academicSchedulerImport.168b1bbe40f5b0225d3c.png",
     "static/media/academicSchedulerDashboard.png": "./static/media/academicSchedulerDashboard.8886e87c05f37ca4a5c1.png",
     "static/media/MSSansSerif.ttf": "./static/media/MSSansSerif.aa14e7b110864a3c2e08.ttf",
@@ -16,11 +22,11 @@
     "static/media/Millennium-Bold.ttf": "./static/media/Millennium-Bold.cd5e3be832ebd008c852.ttf",
     "index.html": "./index.html",
     "main.22d0a6ca.css.map": "./static/css/main.22d0a6ca.css.map",
-    "main.958c8bba.js.map": "./static/js/main.958c8bba.js.map",
+    "main.e252ab76.js.map": "./static/js/main.e252ab76.js.map",
     "787.749b4a44.chunk.js.map": "./static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22d0a6ca.css",
-    "static/js/main.958c8bba.js"
+    "static/js/main.e252ab76.js"
   ]
 }
